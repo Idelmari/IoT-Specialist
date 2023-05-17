@@ -8,6 +8,8 @@ O modelo está disponível no link: (https://colab.research.google.com/github/ai
 Transfer Learning: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb
 
 A tarefa pode envolver a detecção de pragas em plantações, pessoas nas ruas, câncer de pele, frutos maduros em uma plantação, desmatamento, dentre outras situações.
+![image](https://github.com/Idelmari/Projeto-de-Sensores-Inteligentes-para-IoT/assets/108090617/74d35ac6-3702-4c96-82d1-642d90b6211b)
+Exemplo de aplicação de rede Yolo
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Eu escolhi realizar detecção de ventiladores.
  

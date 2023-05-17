@@ -11,5 +11,8 @@ A tarefa pode envolver a detecção de pragas em plantações, pessoas nas ruas,
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Eu escolhi realizar detecção de ventiladores.
  
+ ![image](https://github.com/Idelmari/Projeto-de-Sensores-Inteligentes-para-IoT/assets/108090617/ceb44dd3-5150-4ef5-996c-67384b5c000e)
+
+ 
  
  
